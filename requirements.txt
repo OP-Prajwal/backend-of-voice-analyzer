@@ -1,0 +1,7 @@
+flask
+flask-cors
+moviepy
+librosa
+numpy
+tensorflow
+werkzeug
